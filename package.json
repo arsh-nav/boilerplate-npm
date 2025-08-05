@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Arshia Navab",
-	"description": "This is a parctice session."
+	"description": "This is a parctice session.",
+	"keywords": ["practice","new skill","consistently"]
 }
