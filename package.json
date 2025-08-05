@@ -14,5 +14,6 @@
 	"author": "Arshia Navab",
 	"description": "This is a parctice session.",
 	"keywords": ["practice","new skill","consistently","freecodecamp"],
-	"license": "BSD-2-Clause"
+	"license": "BSD-2-Clause",
+	"version": "1.0.0"
 }
